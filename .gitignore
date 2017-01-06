@@ -1,0 +1,13 @@
+node_modules/
+bower_components/
+app/bower_components/
+.git
+npm-debug.log
+
+.System/
+app/scripts/node/**/*.js
+app/main.js
+
+build/
+dist/
+uploads/
