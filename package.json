@@ -38,6 +38,7 @@
   "build": {
     "appId": "desktopdemo",
     "win": {
+      "icon": "./build/images/app-icon.ico",
       "target": "nsis"
     },
     "nsis": {
